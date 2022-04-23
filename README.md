@@ -14,3 +14,5 @@ Module 1 code refactor. This week we were given an on-the-job ticket. The main g
 
 
 * Link: https://github.com/wedniatnuom/Code_Refactor
+
+* Screen shot included in images
